@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Routes, Route } from 'react-router-dom'
 import Sidebar from '../component/Sidebar'
-import User from '../component/user-management/user'
+import User from '../component/user-management/User'
 import BuatUser from '../component/user-management/BuatUser'
 import EditData from '../component/user-management/EditData'
 import 'bootstrap-icons/font/bootstrap-icons.css';
